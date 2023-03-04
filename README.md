@@ -11,7 +11,7 @@ composer require joserf/mqtt-php-api
 ## Índice
 
 * [Requisitos mínimos](#requisitos-mínimos)
-* [Como Usar](#como-usar)
+* [Como usar](#como-usar)
   * [Publish](#publish)
   * [Subscribe](#subscribe)  
 * [Exemplos de uso](#exemplos-de-uso)
