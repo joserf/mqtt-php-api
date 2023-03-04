@@ -1,0 +1,32 @@
+{
+    "name": "joserf/mqtt-php-api",
+    "description": "MQTT Client PHP API",
+    "type": "library",
+    "keywords": [
+        "mqtt",
+        "client",
+        "publish",
+        "subscribe",
+        "api",
+        "php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "José Rodrigues Filho",
+            "email": "contato@joserodriguesfilho.com",
+            "homepage": "http://www.joserodriguesfilho.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PhpMqtt\\Client\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0",
+        "psr/log": "^1.1|^2.0|^3.0",
+        "myclabs/php-enum": "^1.7"
+    }
+}
